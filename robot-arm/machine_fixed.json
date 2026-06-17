@@ -1,0 +1,24 @@
+{
+    "from": "User",
+    "inherits": "Creality Ender-3 V2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_x": [
+        "2000",
+        "500"
+    ],
+    "machine_max_acceleration_y": [
+        "2000",
+        "500"
+    ],
+    "name": "Creality Ender-3 V2 0.4 nozzle - kit",
+    "printer_settings_id": "Creality Ender-3 V2 0.4 nozzle - kit",
+    "version": "2.3.0.3",
+    "type": "machine",
+    "printable_area": [
+        "0x0",
+        "10000x0",
+        "10000x10000",
+        "0x10000"
+    ],
+    "printable_height": "10000"
+}
