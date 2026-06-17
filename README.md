@@ -1,2 +1,35 @@
 # Vulcan
-Its just a big ass robot arm
+*Versatile Utility Ligament for Custom and Numerical-control*
+
+## Overview
+Vulcan is a 6-axis, mostly 3D-printed robot arm designed for low cost and high accessibility. It was engineered to be customizable enough for anyone to manufacture, yet robust enough to handle demanding tasks, including CNC or FDM control.
+
+## Design Philosophy: Why Belt Reductions?
+Unlike many robot arms that rely on expensive metal gearboxes (which suffer from significant backlash) or 3D-printed planetary gears (which often lack durability and torque), Vulcan utilizes a series of belt reductions.
+
+This system offers several key advantages:
+*   **Zero Backlash:** When implemented correctly, belts provide virtually backlash-free movement.
+*   **Cost Efficiency:** Belts are significantly more affordable than precision metal gears.
+*   **Adaptability:** The design is highly modular. If you need a fast arm, simply reduce the reduction ratio; if you need more strength or precision, increase it. All adjustments can be made by reprinting the pulleys.
+
+## Technical Specifications
+The arm's first four axes are driven by reduced NEMA 23 motors. The final two joints (the wrist) utilize two NEMA 17 motors in a belted differential configuration.
+
+| Joint | Torque (Approx. after reduction) |
+| :--- | :--- |
+| **Joint 1** | 31.25 NM |
+| **Joint 2** | 32 NM |
+| **Joint 3** | 32 NM |
+| **Joint 4** | 10.28 NM |
+| **Joint 5 & 6** | 7.2 NM |
+
+Wiring Diagram
+<img width="1920" height="1080" alt="Wiring (1)" src="https://github.com/user-attachments/assets/9645b127-c43e-49a3-8ecb-3b90e0440805" />
+
+<img width="1920" height="1080" alt="wrist" src="https://github.com/user-attachments/assets/74f4b32e-2dff-4f80-95b1-4344533f4e49" />
+
+<img width="599" height="920" alt="Screenshot 2026-06-09 001542" src="https://github.com/user-attachments/assets/dde66eef-216c-4ff8-b961-c47465612318" />
+<img width="749" height="545" alt="Screenshot 2026-06-16 002700" src="https://github.com/user-attachments/assets/3d96c3a2-f9dc-45dc-a349-16d7e0dbd73a" />
+<img width="739" height="456" alt="Screenshot 2026-06-16 204510" src="https://github.com/user-attachments/assets/e3d4da59-5641-4cb9-ac02-e8db7f0ea6ae" />
+<img width="1800" height="484" alt="Screenshot 2026-06-16 231215" src="https://github.com/user-attachments/assets/ccb99f54-5392-4f9f-9cd7-af2f64a5bff8" />
+<img width="860" height="681" alt="Screenshot 2026-06-16 231142" src="https://github.com/user-attachments/assets/3faf460f-fe71-49d1-8282-c8b62e33163d" />
