@@ -1,4 +1,0 @@
-{
-    "layer_gcode": "G92 E0",
-    "use_relative_e_distances": "1"
-}

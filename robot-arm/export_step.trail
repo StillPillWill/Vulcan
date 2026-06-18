@@ -1,9 +1,0 @@
-! trail file
-~ Command `ProCmdModelOpen` 
-~ Select `file_open` `Ph_list.Filelist` 1 `rod.prt.8`
-~ Activate `file_open` `Ph_list.Filelist` 1 `rod.prt.8`
-~ Command `ProCmdModelExport`
-~ Select `export_tab` `Type` ` `STEP`
-~ Activate `export_tab` `OK`
-~ Activate `common_gui_for_dialogs` `ok`
-~ Command `ProCmdExit`

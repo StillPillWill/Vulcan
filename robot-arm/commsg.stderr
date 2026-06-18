@@ -1,2 +1,0 @@
-pro_comm_msg: insufficient arguments supplied.
-Usage: pro_comm_msg rpc_num version application_pid

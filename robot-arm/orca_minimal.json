@@ -1,7 +1,0 @@
-{
-    "layer_height": "0.2",
-    "nozzle_diameter": [ "0.4" ],
-    "printer_model": "Creality Ender-3 V2",
-    "layer_change_gcode": "G92 E0",
-    "use_relative_e_distances": "1"
-}
