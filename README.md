@@ -23,11 +23,9 @@ The arm's first four axes are driven by reduced NEMA 23 motors. The final two jo
 | **Joint 4** | 10.28 NM |
 | **Joint 5 & 6** | 7.2 NM |
 
+<img width="1401" height="2000" alt="Zine" src="https://github.com/user-attachments/assets/749afda4-285b-4e45-8626-389e98f9eeb6" />
+
 Wiring Diagram
-<img width="1920" height="1080" alt="Wiring (1)" src="https://github.com/user-attachments/assets/9645b127-c43e-49a3-8ecb-3b90e0440805" />
-
-<img width="1920" height="1080" alt="wrist" src="https://github.com/user-attachments/assets/74f4b32e-2dff-4f80-95b1-4344533f4e49" />
-
-<img width="749" height="545" alt="Screenshot 2026-06-16 002700" src="https://github.com/user-attachments/assets/3d96c3a2-f9dc-45dc-a349-16d7e0dbd73a" />
 <img width="739" height="456" alt="Screenshot 2026-06-16 204510" src="https://github.com/user-attachments/assets/e3d4da59-5641-4cb9-ac02-e8db7f0ea6ae" />
+<img width="1920" height="1080" alt="Wiring (1)" src="https://github.com/user-attachments/assets/9645b127-c43e-49a3-8ecb-3b90e0440805" />
 <img width="860" height="681" alt="Screenshot 2026-06-16 231142" src="https://github.com/user-attachments/assets/3faf460f-fe71-49d1-8282-c8b62e33163d" />
