@@ -4,7 +4,10 @@
 ## Overview
 Vulcan is a 6-axis, mostly 3D-printed robot arm designed for low cost and high accessibility. It was engineered to be customizable enough for anyone to manufacture, yet robust enough to handle demanding tasks, including CNC or FDM control.
 
-## Design Philosophy: Why Belt Reductions?
+## Motiviation
+I've been wanting to make a robot arm for as long as there have been 3D-printed robot arms. An issue I see with a lot of arms is that they're either weak, small, inaccurate, or expensive. With those constraints in mind, I set out to create something that remedies all those problems. And Vulcan is what I created.
+
+## Why Belts are the best
 Unlike many robot arms that rely on expensive metal gearboxes (which suffer from significant backlash) or 3D-printed planetary gears (which often lack durability and torque), Vulcan utilizes a series of belt reductions.
 
 This system offers several key advantages:
